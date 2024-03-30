@@ -1,0 +1,14 @@
+C:\Users\YooHoGeun\source\repos\Hacking1\Hacking1\bin\Debug\Hacking1.exe.config
+C:\Users\YooHoGeun\source\repos\Hacking1\Hacking1\bin\Debug\Hacking1.exe
+C:\Users\YooHoGeun\source\repos\Hacking1\Hacking1\bin\Debug\Hacking1.pdb
+C:\Users\YooHoGeun\source\repos\Hacking1\Hacking1\obj\Debug\Hacking1.csproj.AssemblyReference.cache
+C:\Users\YooHoGeun\source\repos\Hacking1\Hacking1\obj\Debug\Hacking1.csproj.CoreCompileInputs.cache
+C:\Users\YooHoGeun\source\repos\Hacking1\Hacking1\obj\Debug\Hacking1.exe
+C:\Users\YooHoGeun\source\repos\Hacking1\Hacking1\obj\Debug\Hacking1.pdb
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking1\Hacking1\bin\Debug\Hacking1.exe.config
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking1\Hacking1\bin\Debug\Hacking1.exe
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking1\Hacking1\bin\Debug\Hacking1.pdb
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking1\Hacking1\obj\Debug\Hacking1.csproj.AssemblyReference.cache
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking1\Hacking1\obj\Debug\Hacking1.csproj.CoreCompileInputs.cache
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking1\Hacking1\obj\Debug\Hacking1.exe
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking1\Hacking1\obj\Debug\Hacking1.pdb
