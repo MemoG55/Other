@@ -1,0 +1,7 @@
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking2_Affine\Hacking2_Affine\bin\Debug\Hacking2_Affine.exe.config
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking2_Affine\Hacking2_Affine\bin\Debug\Hacking2_Affine.exe
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking2_Affine\Hacking2_Affine\bin\Debug\Hacking2_Affine.pdb
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking2_Affine\Hacking2_Affine\obj\Debug\Hacking2_Affine.csproj.AssemblyReference.cache
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking2_Affine\Hacking2_Affine\obj\Debug\Hacking2_Affine.csproj.CoreCompileInputs.cache
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking2_Affine\Hacking2_Affine\obj\Debug\Hacking2_Affine.exe
+C:\Users\YooHoGeun\Documents\GitHub\Other\Hacking2_Affine\Hacking2_Affine\obj\Debug\Hacking2_Affine.pdb
