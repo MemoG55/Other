@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\hacking2_affine\\affinedecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|solutionrelative:hacking2_affine\\affinedecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|c:\\users\\yoohogeun\\documents\\github\\other\\hacking2_affine\\hacking2_affine\\affineencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\hacking2_affine\\affineencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|solutionrelative:hacking2_affine\\affineencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\hacking2_affine\\\uAC80\uD1A0\uC6A9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|solutionrelative:hacking2_affine\\\uAC80\uD1A0\uC6A9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|c:\\users\\yoohogeun\\documents\\github\\other\\hacking2_affine\\hacking2_affine\\affinedecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6991BAC-7C4E-4FD4-9E54-8067B83D54D2}|Hacking2_Affine\\Hacking2_Affine.csproj|solutionrelative:hacking2_affine\\affinedecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "\uAC80\uD1A0\uC6A9.cs",
               "DocumentMoniker": "C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\Hacking2_Affine\\\uAC80\uD1A0\uC6A9.cs",
               "RelativeDocumentMoniker": "Hacking2_Affine\\\uAC80\uD1A0\uC6A9.cs",
@@ -34,30 +34,31 @@
               "RelativeToolTip": "Hacking2_Affine\\\uAC80\uD1A0\uC6A9.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T09:16:42.594Z"
+              "WhenOpened": "2024-04-06T09:16:42.594Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AffineEncoder.cs",
               "DocumentMoniker": "C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\Hacking2_Affine\\AffineEncoder.cs",
               "RelativeDocumentMoniker": "Hacking2_Affine\\AffineEncoder.cs",
               "ToolTip": "C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\Hacking2_Affine\\AffineEncoder.cs",
               "RelativeToolTip": "Hacking2_Affine\\AffineEncoder.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAAwIcAAAAJAAAA",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAwHAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T06:35:16.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AffineDecoder.cs",
               "DocumentMoniker": "C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\Hacking2_Affine\\AffineDecoder.cs",
               "RelativeDocumentMoniker": "Hacking2_Affine\\AffineDecoder.cs",
               "ToolTip": "C:\\Users\\YooHoGeun\\Documents\\GitHub\\Other\\Hacking2_Affine\\Hacking2_Affine\\AffineDecoder.cs",
               "RelativeToolTip": "Hacking2_Affine\\AffineDecoder.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAMAAAAOAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAGoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T07:03:35.287Z",
               "EditorCaption": ""
