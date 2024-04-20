@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 //시저암호는 암호키를 알면 -를 붙이거나 26-암호키를 하여 복호키를 알아낼 수 있지만
 //아핀암호는 ax+b <-> (x-b)a^(-1) 공식이기에 바로 구할 수 없음. 인코더 디코더 단순통합불가, (25초과거나 -25초과시 나머지로 계산) -> 1은 b, -1은 z
 //모듈러 공식이기에 a^(-1)를 분모취급도 못함, 공식 필요
+//가능한 키만 제공
 namespace Hacking2_Affine
 {
     internal class AffineEncoder
